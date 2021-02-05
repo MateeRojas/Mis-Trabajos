@@ -1,0 +1,6 @@
+Se pide implementar una Lista simplemente enlazada. Para ello se brindan las firmas de las funciones públicas a imple-
+mentar y se deja a criterio del alumno la creación de las funciones privadas del TDA para el correcto funcionamiento de
+la Lista cumpliendo con las buenas prácticas de programación.
+Dentro de este TDA, se pide incluir también la implementación de las funciones básicas de los TDAs Pila y Cola, cumpliendo
+asi que este satisfaga el comportamiento de las tres estructuras.
+Adicionalmente se pide la creación de un iterador interno y uno externo para la lista.
